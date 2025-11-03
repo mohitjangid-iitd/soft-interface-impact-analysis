@@ -1,0 +1,19 @@
+avi_converter.py → Converts a single MP4 video to AVI format for compatibility with OpenCV processing.
+avi_converter_batch.py → Converts all videos in a folder to AVI format automatically.
+video_similarity_comparison.py → Compares the converted video and the input video's visual similarity.
+
+ellipse_fit_single.py → Detects droplet boundary using ellipse fitting on one high-speed video.
+ellipse_fit_visualizer.py → Displays contours and fitted ellipses frame-by-frame for visual validation.
+measure_and_count_batch.py → Processes multiple videos to measure droplet parameters and count impacts.
+nested_folder_excel_export.py → Reads processed data from nested folders and exports combined results to Excel.
+mini_realtime_counter.py → Basic prototype that tracks droplet deformation in a single video using contour detection.
+realtime_counter.py → Advanced and detailed version of mini_realtime_counter.py with improved measurements and deformation tracking pipeline.
+jet_length_vs_time.py → Extracts and plots jet length variation over time from processed video data.
+
+radius_histogram.py → Plots histogram of droplet radius distribution from CSV data.
+area_distribution_histogram.py → Generates area probability distribution plot for deformed droplets.
+two_peak_detection.py → Detects bimodal peaks in deformation or size distribution data.
+drop_ellipse_angle_histogram.py → Plots histogram of droplet orientation angles from ellipse fits.
+jet_length_histogram.py → Creates histogram of measured jet lengths for multiple experiments.
+volume_vs_time_plots.py → Plots droplet or jet volume as a function of time using CSV data.
+volume_vs_flowrate.py → Compares droplet volume with impact flow rate across multiple trials.
