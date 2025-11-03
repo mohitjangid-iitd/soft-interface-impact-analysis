@@ -1,5 +1,9 @@
 # Impact and Deformation at Soft Interfaces
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![IIT Delhi](https://img.shields.io/badge/Institute-IIT%20Delhi-orange)
+
 Experimental analysis of droplet impact and deformation dynamics on soft hydrogel surfaces.  
 This repository contains Python scripts developed for data extraction, video analysis, and visualization used during my M.Sc. Physics thesis at **IIT Delhi**.
 
@@ -8,6 +12,7 @@ This repository contains Python scripts developed for data extraction, video ana
 ## 🧪 Overview
 The project combines high-speed video analysis, data processing, and visualization to study how droplets deform soft surfaces upon impact.  
 All experimental data and videos are excluded for confidentiality — only analysis scripts are included here.
+The analysis was performed using high-speed imaging data at the Soft Matter Physics Laboratory, IIT Delhi.
 
 ---
 
