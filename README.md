@@ -14,7 +14,7 @@ All experimental data and videos are excluded for confidentiality — only analy
 ## 📚 Academic Context
 This work was carried out as part of the **M.Sc. Physics Thesis** at the  
 **Indian Institute of Technology Delhi (IIT Delhi)**  
-under the supervision of **Prof. [Supervisor’s Full Name]**,  
+under the supervision of **Prof. Deepak Kumar**,  
 Department of Physics, IIT Delhi.
 
 ---
