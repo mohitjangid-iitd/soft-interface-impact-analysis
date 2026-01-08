@@ -4,19 +4,29 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![IIT Delhi](https://img.shields.io/badge/Institute-IIT%20Delhi-orange)
 
-Experimental analysis of droplet impact and deformation dynamics on soft hydrogel surfaces.  
+Python-based computer vision pipelines for high-speed video analysis of droplet impact and deformation on soft interfaces.  
 This repository contains Python scripts developed for data extraction, video analysis, and visualization used during my M.Sc. Physics thesis at **IIT Delhi**.
 
 ---
 
 ## 🧪 Overview
-The project combines high-speed video analysis, data processing, and visualization to study how droplets deform soft surfaces upon impact.  
+The project combines high-speed video analysis, data processing, and visualization to study droplet impact and deformation on soft interfaces.
+I designed, tested, and used Python-based computer vision pipelines to process controlled high-speed experimental videos and extract quantitative parameters such as droplet shape, deformation, jet length, and temporal evolution.
+
 All experimental data and videos are excluded for confidentiality — only analysis scripts are included here.
 The analysis was performed using high-speed imaging data at the Soft Matter Physics Laboratory, IIT Delhi.
 
 ---
 
-## 📚 Academic Context
+## 🛠️ Key Capabilities
+- Contour-based droplet detection and ellipse fitting
+- Batch processing of large video datasets
+- Automated feature extraction and CSV/Excel export
+- Statistical and time-series visualization for validation
+
+---
+
+## 📚 Applied Research Context
 This work was carried out as part of the **M.Sc. Physics Thesis** at the  
 **Indian Institute of Technology Delhi (IIT Delhi)**  
 under the supervision of **Prof. Deepak Kumar**,  
